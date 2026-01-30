@@ -4,7 +4,6 @@
 - [Objective](#objective)
 - [Methodology](#methodology)
 - [Results](#results)
-- [Key Insights](#key-insights)
 ### Project Overview
 This project focuses on building a machine learning model to predict the Miles Per Gallon (MPG) of automobiles using historical vehicle data. The goal is to understand how different vehicle attributes influence fuel efficiency and to develop a reliable regression model for MPG prediction.
 ### Objective
